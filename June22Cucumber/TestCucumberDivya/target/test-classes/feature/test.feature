@@ -54,6 +54,12 @@ Feature: Adactin Hotel
     And Test
     And test project git
     
+    
+    @login
+    
+    Scenario: test validation
+    Given Load the url and data
+    
 
     
 
