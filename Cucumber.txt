@@ -1,0 +1,13 @@
+1. Create Maven Project
+2. Add dependicies Selenium Java, Webdrivermanager, Cucumber Java and Cucumber Junit
+3. In Eclipse - go to help option, then eclipse market place then search cucumber and install it
+4. in your project src/test/resource - > create new folder and keep name as Feature File
+5. Create new file inside feature file folder with the extension of .feature (test.feature)
+
+6. Feature File Created and itwill give the feature file templates with gherkin keywords
+
+you can write scenario , given, when , then and And
+
+7. under src/test/java create new package for runner class and create new class name it as TestRunner
+
+8. under src/test/java create new package for step definition class and create new class name it as stepdefinition
