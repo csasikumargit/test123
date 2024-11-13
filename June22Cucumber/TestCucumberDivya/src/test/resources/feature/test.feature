@@ -45,4 +45,15 @@ Feature: Adactin Hotel
     And Click the Submit Option 
     And Click the booking history
     
+    
+    @endtoend
+    
+    Scenario: End to End
+    
+    Given Load the URL
+    And Test
+    And test project git
+    
+
+    
 
